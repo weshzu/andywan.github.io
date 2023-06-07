@@ -7,5 +7,17 @@ alt: image-alt
 project-date: June 2023
 client: Botset Toys
 category: Risk & Control & Compliance Assessment
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.rgr
+description: Current assets
+Assets managed by the IT Department include: 
+On-premises equipment for in-office business needs  
+Employee and clients equipment: end-user devices (desktops/laptops, surface tablets, smartphones), remote workstations, headsets, cables, keyboards, mice, docking stations, surveillance cameras and wires(RJ45, HDMIs, adapters, display ports, usb-c)
+Management of systems, software, admin licenses, and services in telecommunication network 3cX phones VoIP, customer database and sentinel one security
+Internet (shaw, tbaytel, starlink access)
+Internal network (switch and firewalls)
+Each vendor sharepoint access management
+Data center hosting services in Winnipeg 
+Data retention and storage
+Badge readers (verkada)
+Legacy system maintenance: end-of-life systems that require human monitoring 
+
 ---
