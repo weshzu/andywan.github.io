@@ -40,13 +40,13 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url: 
   - title: facebook
     url: https://www.facebook.com/andeevvan
   - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
+    url:
   - title: bitbucket
-    url: http://bitbucket.org/jekyll
+    url:
   - title: github
     url: http://github.com/weshzu
 
