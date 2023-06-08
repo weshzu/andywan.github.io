@@ -7,8 +7,7 @@ alt: image-alt
 project-date: June 2023
 client: Botset Toys
 category: Risk & Control & Compliance Assessment
-description: Assets managed by the IT departments includes on-premise equipment for in-office business needs.
-Employee and clients end user equipment such as desktop, laptops, surface tablets and smartphones. 
+description: Assets managed by the IT departments includes on-premise equipment for in-office business needs.  Employee and clients end user equipment such as desktop, laptops, surface tablets and smartphones. 
 
 
 ---
