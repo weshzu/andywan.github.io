@@ -8,10 +8,7 @@ project-date: June 2023
 client: Botset Toys
 category: Risk & Control & Compliance Assessment
 description: Assets managed by the IT departments includes on-premise equipment for in-office business needs.
-Employee and clients end user equipment such as desktop, laptops, surface tablets and smartphones.  Peripherals like headsets, cables, keyboards, mices, docking stations, surveillance cameras and wires such as, RJ45, HDMIs, adpapters, display ports and USB-C.
-Management of systems, software, administrative licenses and services in telecommunication network VoIP, customer database and cloud-base SentinelOne security
-Internet such as SHAW, Tbaytel, Starlink access
-Internal Network
+Employee and clients end user equipment such as desktop, laptops, surface tablets and smartphones.  Peripherals like headsets, cables, keyboards, mices, docking stations, surveillance cameras and wires such as, RJ45, HDMIs, adpapters, display ports and USB-C.  Management of systems, software, administrative licenses and services in telecommunication network VoIP, customer database and cloud-base SentinelOne security.  Internet such as SHAW, Tbaytel, Starlink access.  Internal Network
 
 
 ---
