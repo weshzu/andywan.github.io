@@ -7,7 +7,9 @@ alt: image-alt
 project-date: June 2023
 client: Botset Toys
 category: Risk & Control & Compliance Assessment
-description: Assets managed by the IT departments includes on-premise equipment for in-office business needs.  Employee and clients end user equipment such as desktop, laptops, surface tablets and smartphones. 
+description: Assets managed by the IT departments includes on-premise equipment for in-office business needs.  Employee and clients end user equipment such as desktop, laptops, surface tablets and smartphones.  Remote workstations, headsets, cables, keyboards, mice, docking stations, surveillance cameras and wires(rj45, HDMIs, adapters, display ports, usb-c).  Management of systems, software, admin licenses, and services in telecommunication network 3cX phones VoIP, customer database and sentinel one security.  Internet (shaw, tbaytel, starlink access)
+
+
 
 
 ---
