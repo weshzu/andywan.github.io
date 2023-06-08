@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2023-05-18
-img: cabin.png
+img: anime.gif
 alt: image-alt
 project-date: June 2023
 client: Botset Toys
